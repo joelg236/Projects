@@ -9,10 +9,7 @@ def factors(o):
     return a
 
 def isPrime(x):
-    if len(factors(x)) == 2:
-        return True
-    else:
-        return False
+    return len(factors(x)) == 2
 
 def primeFactors(x):
     a = []
