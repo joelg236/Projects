@@ -1,5 +1,4 @@
-print 'What number should prime factors be found from?'
-n = int(eval(raw_input()))
+n = input('What number should prime factors be found from?')
 
 def factors(o):
     a = []

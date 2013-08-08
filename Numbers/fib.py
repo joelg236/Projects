@@ -1,5 +1,4 @@
-print 'To which number should be calculated?'
-n = int(eval(raw_input()))
+n = input('To which number should be calculated?')
 
 x = [0]
 for i in range(n):

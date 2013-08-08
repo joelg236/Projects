@@ -1,10 +1,7 @@
-print("What is the width?")
-width = eval(raw_input())
+width = input("What is the width?")
 
-print("What is the height?")
-height = eval(raw_input())
+height = input("What is the height?")
 
-print("What is the cost per tile?")
-tile = eval(raw_input())
+tile = input("What is the cost per tile?")
 
-print("\nTotal cost: "+ str(width * height * tile) + " for " + str(width * height) + " square feet")
+print("\nTotal cost: %.2f for %.2f square feet" % (width * height * tile, width * height))

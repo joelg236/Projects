@@ -14,9 +14,8 @@ def next_prime(x):
         if is_prime(x):
             return x
 
-print('press enter for next')
+input('press enter for next')
 
-x = raw_input()
 i = 0
 
 while(x == ''):

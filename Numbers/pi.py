@@ -14,6 +14,6 @@ def bellard(n):
     pi = pi * 1/(2**6)
     return pi
 
-digits = raw_input('Enter number of digits to round PI to: ')
+digits = input('Enter number of digits to round PI to: ')
 
-print ('{0:.%df}' % min(30, int(digits))).format(bellard(digits))
+print ('{0:.%df}' % min(30, digits)).format(bellard(digits))
