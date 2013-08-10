@@ -1,29 +1,29 @@
 cost = input("What is the cost in dollars? ")
 money = input("Money given: ")
-change = money - cost
+change = int(round(money - cost, 2) * 100)
 
 if change < 0:
     print("You didn't pay enough!")
     exit()
 
-dollars = int(change)
-change %= 1
+dollars = change / 100
+change %= 100
 
-quarters = int(change / 0.25)
-change %= 0.25
+quarters = change / 25
+change %= 25
 
-dimes = int(change / 0.1)
-change %= 0.1
+dimes = change / 10
+change %= 10
 
-nickels = int(change / 0.05)
-change %= 0.05
+nickels = change / 5
+change %= 5
 
-pennies = change / 0.01
+pennies = change
 
 print("""Your change is:
     %i dollars
     %i quarters
     %i dimes
     %i nickels
-    %.0f pennies
+    %i pennies
 """ % (dollars, quarters, dimes, nickels, pennies))
