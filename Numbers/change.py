@@ -1,6 +1,6 @@
 cost = input("What is the cost in dollars? ")
 money = input("Money given: ")
-change = int(round(money - cost, 2) * 100)
+change = int(round(money - cost) * 100)
 
 if change < 0:
     print("You didn't pay enough!")
