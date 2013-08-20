@@ -13,10 +13,10 @@ Some details:
 * The projects will not be made in the order posted.
 * I may not be able to complete all of them. 
 * My method of solving them may not be the best.
+* I will be treating each project as a script and they will not be designd to becallable from other scripts.
+* I will not account for mallicious use of programs. Only qualification is to work. I'm learning, not perfecting.
 
 I will link to each project that I complete. Some will be in this same repo, some bigger ones will have dedicated repos.
-
-**Note**: I have't read any problem while creating this repo. I'll read them as I start solving the problems. Hence, there is no prior curation or filtering. Keeps things spicy. :)
 
 ==============================
 
