@@ -41,7 +41,7 @@ Numbers
 
 **Alarm Clock** – A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.
 
-**Credit Card Validator** – Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
+[**Credit Card Validator**](https://github.com/joelg236/Projects/blob/master/Numbers/creditcard.py) – Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
 
 **Dijkstra’s Algorithm** – Create a program that finds the shortest path through a graph using its edges.
 
@@ -50,9 +50,9 @@ Text
 
 [**Reverse a String**](https://github.com/joelg236/Projects/blob/master/Text/reverse.py) – Enter a string and the program will reverse it and print it out.
 
-**Pig Latin** – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
+[**Pig Latin**](https://github.com/joelg236/Projects/blob/master/Text/piglatin.py) – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 
-**Count Vowels** – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
+[**Count Vowels**](https://github.com/joelg236/Projects/blob/master/Text/vowels.py) – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
 
 **Check if Palindrome** – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 
