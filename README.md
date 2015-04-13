@@ -39,7 +39,7 @@ Numbers
 
 [**Calculator**](https://github.com/joelg236/Projects/blob/master/Numbers/calculator.py) – A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
-**Alarm Clock** – A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.
+[**Alarm Clock**](https://github.com/joelg236/Projects/blob/master/Numbers/alarmclock.py) – A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.
 
 [**Credit Card Validator**](https://github.com/joelg236/Projects/blob/master/Numbers/creditcard.py) – Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
 
