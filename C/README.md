@@ -33,7 +33,7 @@ Numbers
 
 [**Find Cost of Tile to Cover W x H Floor**](https://github.com/joelg236/Projects/blob/master/C/Numbers/tile.c) – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
-**Change Return Program** – The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
+[**Change Return Program**](https://github.com/joelg236/Projects/blob/master/C/Numbers/changeReturn.c) – The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
 **Binary to Decimal and Back Converter** – Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
 
