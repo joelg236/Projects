@@ -205,7 +205,7 @@ Graphics and Multimedia
 
 **Mind Mapper** – Allow the user to put down ideas and quickly brainstorm how they are related into a mind map. The goal here is speed so let the user quickly write in an idea and drag it around in a visual map to show relationships.
 
-**Import Picture and Save as Grayscale** – A utility that sucks the color right out of an image and saves it. You could add more including adjusting contrast, colorizing and more for added complexity.
+[**Import Picture and Save as Grayscale**](https://github.com/joelg236/Projects/blob/master/Python/Graphics/grayscale.py) – A utility that sucks the color right out of an image and saves it. You could add more including adjusting contrast, colorizing and more for added complexity.
 
 **Stream Video from Online** – Try to create your own online streaming video player.
 
