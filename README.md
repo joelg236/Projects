@@ -7,7 +7,7 @@ Trying to complete all projects from [Martyr2’s Mega Project List](http://www.
 
 Some details:
 
-* I will use Rust to solve these.
+* I will use Python to solve these.
 * I have no interest in making games, so I'm excluding those from the list below.
 * I'm not interested in networking, so I *might* skip some of them.
 * The projects will not be made in the order posted.
