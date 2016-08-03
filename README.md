@@ -1,13 +1,14 @@
 Martyr2’s Mega Project List
 ========
 
+Check out the branches for actual solutions in different languages.
+
 Trying to complete all projects from [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/).
 
 **Note**: If you fork this repo to solve these projects in any language of your choice, please remove all my code, and start from scratch; you'll benefit a lot. Do ***not*** send pull requests.
 
 Some details:
 
-* I will use Rust to solve these.
 * I have no interest in making games, so I'm excluding those from the list below.
 * I'm not interested in networking, so I *might* skip some of them.
 * The projects will not be made in the order posted.
