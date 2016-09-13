@@ -12,3 +12,7 @@ path = "src/pi.rs"
 [[bin]]
 name = "fib"
 path = "src/fib.rs"
+
+[[bin]]
+name = "primes"
+path = "src/primes.rs"
