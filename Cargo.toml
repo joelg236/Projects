@@ -4,3 +4,7 @@ version = "0.1.0"
 authors = ["Joel Gallant <joel@joelgallant.me>"]
 
 [dependencies]
+
+[[bin]]
+name = "pi"
+path = "src/pi.rs"
