@@ -8,3 +8,7 @@ authors = ["Joel Gallant <joel@joelgallant.me>"]
 [[bin]]
 name = "pi"
 path = "src/pi.rs"
+
+[[bin]]
+name = "fib"
+path = "src/fib.rs"
