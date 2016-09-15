@@ -24,3 +24,7 @@ path = "src/prime.rs"
 [[bin]]
 name = "cost"
 path = "src/cost.rs"
+
+[[bin]]
+name = "change"
+path = "src/change.rs"
