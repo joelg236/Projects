@@ -28,3 +28,7 @@ path = "src/cost.rs"
 [[bin]]
 name = "change"
 path = "src/change.rs"
+
+[[bin]]
+name = "binary"
+path = "src/binary.rs"
