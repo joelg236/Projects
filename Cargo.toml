@@ -20,3 +20,7 @@ path = "src/primes.rs"
 [[bin]]
 name = "prime"
 path = "src/prime.rs"
+
+[[bin]]
+name = "cost"
+path = "src/cost.rs"
