@@ -7,28 +7,28 @@ authors = ["Joel Gallant <joel@joelgallant.me>"]
 
 [[bin]]
 name = "pi"
-path = "src/pi.rs"
+path = "Numbers/pi.rs"
 
 [[bin]]
 name = "fib"
-path = "src/fib.rs"
+path = "Numbers/fib.rs"
 
 [[bin]]
 name = "primes"
-path = "src/primes.rs"
+path = "Numbers/primes.rs"
 
 [[bin]]
 name = "prime"
-path = "src/prime.rs"
+path = "Numbers/prime.rs"
 
 [[bin]]
 name = "cost"
-path = "src/cost.rs"
+path = "Numbers/cost.rs"
 
 [[bin]]
 name = "change"
-path = "src/change.rs"
+path = "Numbers/change.rs"
 
 [[bin]]
 name = "binary"
-path = "src/binary.rs"
+path = "Numbers/binary.rs"
