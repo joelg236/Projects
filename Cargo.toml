@@ -36,3 +36,7 @@ path = "Numbers/binary.rs"
 [[bin]]
 name = "reverse"
 path = "Text/reverse.rs"
+
+[[bin]]
+name = "piglatin"
+path = "Text/piglatin.rs"
