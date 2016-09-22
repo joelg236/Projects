@@ -40,3 +40,7 @@ path = "Text/reverse.rs"
 [[bin]]
 name = "piglatin"
 path = "Text/piglatin.rs"
+
+[[bin]]
+name = "countvowels"
+path = "Text/countvowels.rs"
