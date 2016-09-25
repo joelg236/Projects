@@ -48,3 +48,7 @@ path = "Text/countvowels.rs"
 [[bin]]
 name = "palindrome"
 path = "Text/palindrome.rs"
+
+[[bin]]
+name = "words"
+path = "Text/words.rs"
