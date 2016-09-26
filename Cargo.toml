@@ -4,6 +4,8 @@ version = "0.1.0"
 authors = ["Joel Gallant <joel@joelgallant.me>"]
 
 [dependencies]
+hyper = "0.9"
+rustc-serialize = "0.3"
 
 [[bin]]
 name = "pi"
@@ -56,3 +58,7 @@ path = "Text/words.rs"
 [[bin]]
 name = "whois"
 path = "Networking/whois.rs"
+
+[[bin]]
+name = "geoip"
+path = "Networking/geoip.rs"
