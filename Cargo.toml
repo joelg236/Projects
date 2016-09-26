@@ -52,3 +52,7 @@ path = "Text/palindrome.rs"
 [[bin]]
 name = "words"
 path = "Text/words.rs"
+
+[[bin]]
+name = "whois"
+path = "Networking/whois.rs"
