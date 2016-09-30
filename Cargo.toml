@@ -62,3 +62,7 @@ path = "Networking/whois.rs"
 [[bin]]
 name = "geoip"
 path = "Networking/geoip.rs"
+
+[[bin]]
+name = "markup"
+path = "Text/markup.rs"
